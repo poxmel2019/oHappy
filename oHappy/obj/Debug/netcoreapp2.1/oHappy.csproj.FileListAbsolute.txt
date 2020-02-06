@@ -1,0 +1,11 @@
+D:\c#w\oHappy\oHappy\bin\Debug\netcoreapp2.1\oHappy.deps.json
+D:\c#w\oHappy\oHappy\bin\Debug\netcoreapp2.1\oHappy.runtimeconfig.json
+D:\c#w\oHappy\oHappy\bin\Debug\netcoreapp2.1\oHappy.runtimeconfig.dev.json
+D:\c#w\oHappy\oHappy\bin\Debug\netcoreapp2.1\oHappy.dll
+D:\c#w\oHappy\oHappy\bin\Debug\netcoreapp2.1\oHappy.pdb
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.csprojAssemblyReference.cache
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.csproj.CoreCompileInputs.cache
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.AssemblyInfoInputs.cache
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.AssemblyInfo.cs
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.dll
+D:\c#w\oHappy\oHappy\obj\Debug\netcoreapp2.1\oHappy.pdb
